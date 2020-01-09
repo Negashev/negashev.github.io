@@ -26,16 +26,38 @@ description: "Reckless, technician"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: vk
+    url: http://vk.com/negash
+  - title: odnoklassniki
+    url: http://www.odnoklassniki.ru/negash
   - title: facebook
-    url:
+    url: https://www.facebook.com/Negashev.Alexandr
+  - title: twitter
+    url: http://twitter.com/AleX_Spark_sbs
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://stackoverflow.com/users/2860751/negash
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/Negash/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Negashev
+  - title: gitlab
+    url: https://gitlab.com/negash
+  - title: google-plus
+    url: https://plus.google.com/+АлександрНегашев/
+  - title: skype
+    url: skype:alex-spark-sbs?call
+  - title: linkedin
+    url: https://www.linkedin.com/in/negashev/
+  - title: external-link
+    url: http://my.mail.ru/mail/alex-spark/
+  - title: external-link
+    url: https://www.3dhubs.com/perm/hubs/negash
+  - title: external-link
+    url: https://www.thingiverse.com/Negash
+  - title: external-link
+    url: http://www.instructables.com/member/Negashev/
+  - title: external-link
+    url: https://www.upwork.com/users/~01df2859ba41a7581a
 
 # Postal address (add as many lines as necessary)
 address:
