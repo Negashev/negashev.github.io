@@ -1,28 +1,10 @@
 url: https://negashev.github.io
-baseurl: /
 
 # Site settings
 title: Negash
 email: i@negash.ru
 description: "Reckless, technician"
 
-
-# Team names, titles and social links
-# people:
-# - name: Kay Garland
-#   pic: 1
-#   position: Lead Designer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
-#     - title: linkedin
-#       url: #
-#     - title: google-plus
-#       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

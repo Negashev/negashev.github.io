@@ -1,0 +1,16 @@
+---
+title: SaaS
+subtitle: DBaaS with large data 
+layout: default
+modal-id: 1
+date: 2017-12-17
+img: rancher-saas.png
+thumbnail: rancher-saas-thumbnail.png
+alt: image-alt
+project-date: December 2017
+client: Dom.ru
+link: https://github.com/Negashev/rancher-saas
+category: CI/CD
+description: Up service with large data (for example mysql with 10gb storage) by nfs force
+
+---
