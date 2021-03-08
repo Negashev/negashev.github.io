@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "http://notify.negash.ru/name: " + name + "<pre> </pre>phone: " + phone + "<pre> </pre>email: " + email + "<pre> </pre>message: " + message,
+                url: "https://notify.negash.ru/name: " + name + "<pre> </pre>phone: " + phone + "<pre> </pre>email: " + email + "<pre> </pre>message: " + message,
                 type: "GET",
                 cache: false,
                 success: function() {
