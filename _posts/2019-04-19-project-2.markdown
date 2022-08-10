@@ -1,0 +1,16 @@
+---
+title: Redis Cluster
+subtitle: Keydb cluster with nats discovery 
+layout: default
+modal-id: 2
+date: 2019-04-19
+img: keydb-cluster.png
+thumbnail: keydb-cluster-thumbnail.png
+alt: image-alt
+project-date: April 2019
+client: EPAM
+link: https://github.com/Negashev/keydb-cluster
+category: Database
+description: Auto add nodes to multi-master keydb (redis) cluster
+
+---
