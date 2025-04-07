@@ -1,0 +1,18 @@
+---
+title: ALDaaS
+subtitle: DBaaS with large data v2
+layout: default
+modal-id: 3
+date: 2024-01-01
+img: aldaas.png
+thumbnail: aldaas-thumbnail.png
+alt: image-alt
+project-date: January 2024
+client: RTK
+link: https://github.com/Negashev/aldaas
+category: Database
+description: App with Large Data as a service (for example postgres/mysql with 10gb+ storage)
+
+
+
+---
