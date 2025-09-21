@@ -7,8 +7,17 @@
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
+                            <li>
+                                <a href="{{ network.url }}">
+                                    {% if network.title == 'skype' %}
+                                        <i class="fab fa-skype"></i>
+                                    {% elsif network.title == 'external-link' %}
+                                        <i class="fa-solid fa-external-link"></i>
+                                    {% else %}
+                                        <i class="fab fa-{{ network.title }}"></i>
+                                    {% endif %}
+                                </a>
+                            </li>
                         {% endfor %}
                     </ul>
                 </div>
